@@ -10,6 +10,10 @@ import lombok.Getter;
 @AllArgsConstructor
 public enum DataTypeEnum {
 
+
+
+
+
     CITIES("conf/cities.json"),
     DAYS("conf/days.json"),
     WEEKS("conf/weeks.json");
