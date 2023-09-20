@@ -10,6 +10,16 @@ import lombok.Getter;
 @AllArgsConstructor
 public enum ProxyModeEnum {
 
+
+
+
+
+
+
+
+
+    
+
     /**
      * 轮询
      */

@@ -10,6 +10,8 @@ import lombok.extern.slf4j.Slf4j;
 @Slf4j
 public class Assert {
 
+
+
     public static void isTrue(boolean expression, String message) {
         if (!expression) {
             CommonUtil.errorExit(message);

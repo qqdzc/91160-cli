@@ -18,6 +18,8 @@ import org.springframework.context.annotation.ComponentScan;
 @EnableCaching
 public class App {
 
+
+
     public static void main(String[] args) {
         new AnnotationConfigApplicationContext(App.class);
 

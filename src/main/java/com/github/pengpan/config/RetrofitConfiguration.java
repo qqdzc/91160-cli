@@ -36,6 +36,9 @@ import java.util.concurrent.TimeUnit;
 @Configuration
 public class RetrofitConfiguration {
 
+
+
+    
     @Bean
     public OkHttpClient okHttpClient() {
         return new OkHttpClient.Builder()
