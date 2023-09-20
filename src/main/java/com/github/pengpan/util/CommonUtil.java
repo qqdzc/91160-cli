@@ -11,6 +11,8 @@ import java.util.Date;
 @Slf4j
 public class CommonUtil {
 
+
+
     public static void errorExit(String format, Object... arguments) {
         log.error(format, arguments);
         System.exit(-1);

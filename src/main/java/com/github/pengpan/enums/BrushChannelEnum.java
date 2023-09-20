@@ -5,6 +5,8 @@ package com.github.pengpan.enums;
  */
 public enum BrushChannelEnum {
 
+
+
     /**
      * 通道1
      */
